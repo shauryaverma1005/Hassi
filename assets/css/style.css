@@ -1,0 +1,23 @@
+body{
+    font-family: 'Bellota', cursive; 
+    background-color: #FAE8E0;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #5a5a5a;
+}
+
+h1 {
+    font-weight: 1000;
+  
+}
+
+h2{
+    font-weight: 800;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+p{
+    font-weight: 700;
+}
